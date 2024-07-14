@@ -1,0 +1,27 @@
+.pixa{
+    /* width: 100%; */
+    margin-left: 10px;
+    
+}
+.pixa img{
+     height: 300px;
+     width: 200px;
+     padding: 25px;
+}
+.pixa input{
+    padding: 10px;
+    width: 70%;
+    border-radius: 20px;
+    margin-top: 40px;
+    margin-left: 100px;
+    border: none;
+    border-color: grey;
+ 
+}
+.pixa input:hover{
+    cursor: pointer;
+    
+}
+input:focus{
+    outline: none;
+}
